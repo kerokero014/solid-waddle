@@ -21,7 +21,5 @@ public class User {
     private String email;
 
     @DocumentReference
-    private List<String> deckId;
+    private List<String> deckIds;
 }
-
-
